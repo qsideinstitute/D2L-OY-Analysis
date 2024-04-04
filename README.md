@@ -10,7 +10,7 @@ This repo is a shared space for data analysis and visualization tools related to
 
 ## Opportunity Youth Data
 
-Some of the data used in this project are sensitive because they document individual experiences within the foster care system. The National Data Archive on Child Abuse and Neglect (NDACAN) has granted the researchers on this project permission to use these data to better understand the population of youth in foster care. 
+Some of the data used in this project are sensitive because they document individual experiences within the foster care system. The National Data Archive on Child Abuse and Neglect (NDACAN) has granted the individual researchers on this project permission to use these data to better understand the population of youth in foster care. 
 
 ### Working with the Individual-Level Foster Care Dataset
 
